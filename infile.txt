@@ -1,0 +1,14 @@
+#Opis zasobow
++ qNumer,quantity,A0
++ qRelacja,quantity,A1
++ qPrzewoznik,quantity,A2
++ qTyp,status,A3
+#test nr.1
+: 75000000, qNumer, 123
+: 75100000, qRelacja, 15
+: 75200000, qPrzewoznik, 11
+: 75300000, qTyp, 1
+: 100000000, qNumer, 18
+: 101000000, qRelacja, 111
+: 102000000, qPrzewoznik, 2
+: 103000000, qTyp, 0

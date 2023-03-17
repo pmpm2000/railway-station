@@ -1,0 +1,18 @@
+# symulacja dla peronu I
++ qN,quantity,A0
++ qR,quantity,A1
++ qP,quantity,A2
++ qT,quantity,A3
+# symulacja
+: 2500000, qN, 5003
+: 2501000, qR, 182
+: 2502000, qP, 4
+: 2503000, qT, 0
+: 15000000, qN, 7312
+: 15100000, qR, 707
+: 15200000, qP, 8004
+: 15300000, qT, 1
+: 35000000, qN, 5808
+: 35100000, qR, 310
+: 35200000, qP, 52
+: 35300000, qT, 0
